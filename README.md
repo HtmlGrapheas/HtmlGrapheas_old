@@ -1,2 +1,1 @@
-# HtmlGrapheas
-The repository is only for code distributing and issue tracking.
+HtmlGrapheas is a HTML text editor library.

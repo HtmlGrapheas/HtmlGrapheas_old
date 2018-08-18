@@ -1,3 +1,0 @@
-[submodule "external/litehtml"]
-	path = external/litehtml
-	url = git@github.com:HtmlGrapheas/litehtml.git
